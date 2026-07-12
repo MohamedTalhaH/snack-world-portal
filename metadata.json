@@ -1,0 +1,6 @@
+{
+  "name": "Snacks Ordering Portal",
+  "description": "A comprehensive snacks ordering platform featuring real-time tracking, an inventory-integrated admin dashboard, and a dedicated delivery partner interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
